@@ -1,0 +1,11 @@
+nim = int(input("nim ="))
+nama = input("nama =")
+kelas = input("kelas =")
+prodi = input("prodi =")
+
+print("===========")
+print("nim :",nim)
+print("nama :",nama)
+print("kelas :",kelas)
+print("prodi :",prodi)
+print("===========")
